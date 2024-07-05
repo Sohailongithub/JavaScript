@@ -1,7 +1,10 @@
 // Stack memory stores primitive datatypes of values and it gives a copy of value 
 
 let fruit = "mango";
-// console.log(fruit);
+console.log(fruit.charCodeAt(0));
+console.log(fruit.codePointAt(0));
+console.log(fruit.toUpperCase());
+
 
 let fruit1 = "banana";
 // console.log(fruit1);
