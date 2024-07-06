@@ -1,6 +1,9 @@
 let gender = 'male';
 let name = 'sohail';
 
+gender = 'female';
+name = 'afrin';
+
 
 // Used Latest Arrow function ES6 
 let suffix = (gender) => {
