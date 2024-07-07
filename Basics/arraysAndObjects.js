@@ -10,7 +10,7 @@ let rahul = {
     location: 'delhi'
 };
 
-let personIntro = (person, age, location) => {
+let personIntro = (person) => {
     return(`Hello this is ${person.name} and my age is ${person.age} I live in ${person.location}`)
 }
 
