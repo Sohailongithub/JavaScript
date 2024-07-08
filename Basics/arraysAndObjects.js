@@ -17,6 +17,8 @@ let personIntro = (person) => {
 console.log(personIntro(rahul));
 console.log(personIntro(sohail));
 
+
+
 /////////////////////////////////////////////////
 
 let arr =  [1,2,3,4,5]

@@ -1,5 +1,7 @@
 // Stack memory stores primitive datatypes of values and it gives a copy of value 
 
+
+
 let fruit = "mango";
 console.log(fruit.charCodeAt(0));
 console.log(fruit.codePointAt(0));
